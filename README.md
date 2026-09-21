@@ -12,7 +12,7 @@ I chose this artefact covers an interesting case of age restrictions being imple
 ## Artefact 2:
 ![Screenshot 2](Ethics3.png) 
 ### Summary of the Artefact:
-This video covers a content creators outlook on the Combatting Antisemitism, Hate and Extremism (Criminal and Migration Laws) Act 2026 that was passed in January of this year, and the ongoing challenge of White Australia V Commonewealth. 
+This video covers a content creators outlook on the Combating Antisemitism, Hate and Extremism (Criminal and Migration Laws) Act 2026 that was passed in January of this year, and the ongoing challenge of White Australia V Commonwealth.
 ### Justification of why I chose the artefact:
 I chose this artefact because it stands out to me due to how politically charged the situation is. The creator makes claims about the implied freedom of political communication, and very notably does not comment on the notion of free speech. In a vacuum the idea of someone's political opinions being deemed illegal goes against what I believe to be ethical. However the party that is at the forefront of this case is a white nationalist group, which seems to me to use the idea of political freedom of expression to shield themselves from reasonable criticism and consequences. Laws theoretically exist to protect order, to dissuade antisocial behaviours amongst the populace and to enforce consequences on those that break them. If you are legally protected while doing unethical and antagonistic behaviour, you risk the consequences of that behaviour escalating to illegal methods from those you have harmed.
 
