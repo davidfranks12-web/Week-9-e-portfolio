@@ -3,7 +3,7 @@ A collection of Artefacts and reflections on my understanding of Censorship
 ## Artefact 1:
 ![Screenshot 1](Ethics1.png) 
 
-### Summary of the Artefact
+### Summary of the Artefact:
 A report from IGN that outlines the details of the recent Steam age verification laws in Australia.
 
 ### Justification of why I chose the artefact:
