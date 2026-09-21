@@ -33,7 +33,7 @@ This week we discussed at length censorship within Australia and the roles of th
 ## References:
 Reilly, L. (2026) *Proof‑of‑Age Verification for Steam in Australia Now Only Possible Using a Credit Card.* IGN Southeast Asia, viewed 16 September Available at: https://www.ign.com/articles/proof-of-age-verification-for-steam-in-australia-now-only-possible-using-a-credit-card
 
-[https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions](https://www.youtube.com/watch?v=78m6mxVKWs0)
+Sunrise 2026, Australia tightens social media ban after US addiction lawsuit | Sunrise, online video, viewed 21 September 2026, https://www.youtube.com/watch?v=78m6mxVKWs0
 
 https://www.youtube.com/shorts/67iDOU605yw
 
