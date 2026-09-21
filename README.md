@@ -33,7 +33,7 @@ This week we discussed at length censorship within Australia and the roles of th
 ## References:
 Glissan, J. 2026, *Australia's Hate Law Is On Trial Right Now And No One's Reporting It*, online video, viewed 21 September 2026, https://www.youtube.com/shorts/67iDOU605yw.
 
-Reilly, L. 2026 *Proof‑of‑Age Verification for Steam in Australia Now Only Possible Using a Credit Card.* IGN Southeast Asia, viewed 16 September, available at: https://www.ign.com/articles/proof-of-age-verification-for-steam-in-australia-now-only-possible-using-a-credit-card
+Reilly, L. 2026 *Proof‑of‑Age Verification for Steam in Australia Now Only Possible Using a Credit Card.* IGN Southeast Asia, viewed 16 September 2026, available at: https://www.ign.com/articles/proof-of-age-verification-for-steam-in-australia-now-only-possible-using-a-credit-card
 
 Sunrise 2026, *Australia tightens social media ban after US addiction lawsuit | Sunrise*, online video, viewed 21 September 2026, available at https://www.youtube.com/watch?v=78m6mxVKWs0
 
