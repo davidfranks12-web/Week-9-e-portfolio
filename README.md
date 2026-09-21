@@ -6,7 +6,7 @@ A collection of Artefacts and reflections on my understanding of Censorship
 ### Summary of the Artefact:
 A report from IGN that outlines the details of the recent Steam age verification laws in Australia.
 
-### Justification of why I chose the artefact:
+### Justification of why I chose the Artefact:
 I chose this artefact covers an interesting case of age restrictions being implemented on the video game marketplace “Steam”. It is true that video games have had age ratings for some time, and age verification is already necessary for social media so in theory this shouldn’t be much different. The issue has stemmed from the method of verification, with Steam requiring a credit card as the only option for verification. This can be interpreted as a form of censorship, as not every adult can obtain a credit card. Circumstances like a bad credit score or a lack of home address could remove a legitimate customers access to content, and to me this seems like an almost incidental case of censorship. To me this is a cautionary tale, of how poor accessibility to a system can unfairly restrict users, and that some forms of censorship may be a consequence instead of a goal.
 
 ## Artefact 2:
@@ -20,14 +20,14 @@ I chose this artefact because it stands out to me due to how politically charged
 ![Screenshot 3](Ethics2.png) 
 ### Summary of the Artefact:
 A Youtube video from Sunrise in response to a landmark ruling in America.
-### Justification of why I chose the artefact:
+### Justification of why I chose the Artefact:
 I chose this artefact because while this video was short it brought to mind a few arguments that feel relevant to censorship. The report follows a ruling that found Meta and Google sued for 4 million dollars due to the addictive nature of the content, and the adverse mental affects that it has had. Is it truly censorship to limit or remove access to content that is proven to be harmful to consumers? In this case I would argue that there is a responsibility of developers to censor YOURSELF if there is a risk of doing harm.
 ## Artefact 4:
 ![Screenshot 4](Ethics4.png) 
 ### Summary of the Artefact:
 A reflection on this weeks workshop and our discussions within it.
 
-### Justification of why I chose the artefact:
+### Justification of why I chose the Artefact:
 This week we discussed at length censorship within Australia and the roles of the government in implementing it. While there were many interesting discussions, what stood out to me most was the division of opinion over the Social Media Ban that happened earlier this year. There were those in favour of the ban, stating a usage of social media being unhealthy or unsafe. Others were opposed, arguing a right to communication, and an ability to learn to self regulate. Both sides of these arguments have merit, and are based in emotion along with facts. Censorship in any form will likely receive similar scrutiny amongst those affected, and any action that is made towards such a thing needs to be well researched and presented.
 
 ## References:
