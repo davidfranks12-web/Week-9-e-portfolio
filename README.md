@@ -31,7 +31,7 @@ A reflection on this weeks workshop and our discussions within it.
 This week we discussed at length censorship within Australia and the roles of the government in implementing it. While there were many interesting discussions, what stood out to me most was the division of opinion over the Social Media Ban that happened earlier this year. There were those in favour of the ban, stating a usage of social media being unhealthy or unsafe. Others were opposed, arguing a right to communication, and an ability to learn to self regulate. Both sides of these arguments have merit, and are based in emotion along with facts. Censorship in any form will likely receive similar scrutiny amongst those affected, and any action that is made towards such a thing needs to be well researched and presented.
 
 ## References:
-Reilly, L. (2026) *Proof‑of‑Age Verification for Steam in Australia Now Only Possible Using a Credit Card.* IGN Southeast Asia, 10 September. Viewed 16 September Available at: https://www.ign.com/articles/proof-of-age-verification-for-steam-in-australia-now-only-possible-using-a-credit-card
+Reilly, L. (2026) *Proof‑of‑Age Verification for Steam in Australia Now Only Possible Using a Credit Card.* IGN Southeast Asia, viewed 16 September Available at: https://www.ign.com/articles/proof-of-age-verification-for-steam-in-australia-now-only-possible-using-a-credit-card
 
 [https://www.esafety.gov.au/about-us/industry-regulation/social-media-age-restrictions](https://www.youtube.com/watch?v=78m6mxVKWs0)
 
