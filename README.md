@@ -1,7 +1,7 @@
 # Week-9-e-portfolio
 A collection of Artefacts and reflections on my understanding of Censorship
 ## Artefact 1:
-![Screenshot 1](Ethics1.png) 
+![Screenshot 1](Ethics11.png) 
 
 ### Summary of the Artefact:
 A report from IGN that outlines the details of the recent Steam age verification laws in Australia (Reilly 2026). The source notes that the age verification method of requiring a credit card may be restrictive to some users.
@@ -10,7 +10,7 @@ A report from IGN that outlines the details of the recent Steam age verification
 I chose this artefact because it covers an interesting case of age restrictions being implemented on the video game marketplace “Steam”. It is true that video games have had age ratings for some time, and age verification is already necessary for social media so in theory this shouldn’t be much different. This can be interpreted as a form of censorship, as not every adult can obtain a credit card. Circumstances like a bad credit score or a lack of home address could remove a legitimate customers access to content, and to me this seems like an almost incidental case of censorship. To me this is a cautionary tale of how poor accessibility to a system can unfairly restrict users, and that some forms of censorship may be a consequence instead of a goal.
 
 ## Artefact 2:
-![Screenshot 2](Ethics3.png) 
+![Screenshot 2](Ethics31.png) 
 ### Summary of the Artefact:
 This video covers a content creators outlook on the Combating Antisemitism, Hate and Extremism (Criminal and Migration Laws) Act 2026 that was passed in January of this year, and the ongoing challenge of White Australia V Commonwealth (Glissan 2026). The source advocates heavily for freedom of political expression, and avoids details of the White Australia Party.
 ### Justification of why I chose the artefact:
@@ -23,7 +23,7 @@ A Youtube video from Sunrise in response to a landmark ruling in America (Sunris
 ### Justification of why I chose the Artefact:
 I chose this artefact because while this video was short it brought to mind a few arguments that feel relevant to censorship. Is it truly censorship to limit or remove access to content that is proven to be harmful to consumers? In this case I would argue that there is a responsibility of developers to censor YOURSELF if there is a risk of doing harm. This shows me censorship can be for a number of different reasons, and access to harmful content is not something that should be defended on principle alone.
 ## Artefact 4:
-![Screenshot 4](Ethics4.png) 
+![Screenshot 4](Ethics41.png) 
 ### Summary of the Artefact:
 A reflection on this weeks workshop and our discussions within it.
 
