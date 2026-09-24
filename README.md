@@ -1,7 +1,7 @@
 # Week-9-e-portfolio
 A collection of Artefacts and reflections on my understanding of Censorship
 ## Artefact 1:
-
+![Screenshot 1](Ethics1.png) 
 
 ### Summary of the Artefact:
 A report from IGN that outlines the details of the recent Steam age verification laws in Australia (Reilly 2026). The source notes that the age verification method of requiring a credit card may be restrictive to some users.
